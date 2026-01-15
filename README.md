@@ -60,11 +60,17 @@ While my primary expertise lies in **Backend Engineering**, I also have a strong
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpaceCat07&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SpaceCat07&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpaceCat07&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.vercel.app/?user=SpaceCat07&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
